@@ -81,7 +81,7 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ## Live Demo
 
-[![Streamlit App](https://img.shields.io/badge/Live%20App-Streamlit-brightgreen)](https://domain.streamlit.app/)
+[![Streamlit App](https://img.shields.io/badge/Live%20App-Streamlit-brightgreen)](https://pageindex-9.streamlit.app/)
 
 ---
 

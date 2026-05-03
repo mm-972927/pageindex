@@ -40,7 +40,7 @@ pageindex/
 ### 1. Clone & set up environment
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/mm-972927/pageindex.git
 cd pageindex
 python -m venv venv
 
